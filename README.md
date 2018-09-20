@@ -1,2 +1,2 @@
-# python-fundamentals
-Semester 2 - Fundamentals of Programming
+# Python Fundamentals
+Semester 2 - Fundamentals of Programming for Data Analytics
