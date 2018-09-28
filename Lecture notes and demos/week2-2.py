@@ -25,3 +25,5 @@ x = np.random.uniform(-3, 3, 1000)
 plt.hist(x)
 
 plt.show()
+
+#Other plots and Ian's examples can be found here: https://github.com/ianmcloughlin/pyplot-examples
